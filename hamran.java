@@ -2,9 +2,9 @@
 import java.util.Random;
 
 public class hamran {
-    public static void main(String [] agrs){
-        Random r=new Random();
-        int x = r.nextInt(6)+1;
+    public static void main(String[] agrs) {
+        Random r = new Random();
+        int x = r.nextInt(6) + 1;
         System.out.println(x);
         double y = r.nextDouble();
         System.out.println(y);
@@ -12,3 +12,4 @@ public class hamran {
         System.out.println(z);
     }
 }
+//jghjgg
